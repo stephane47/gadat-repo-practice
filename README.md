@@ -19,3 +19,25 @@ same paragraph. oh, it merges them on the same line.
 
 new paragraph.
 
+lines: here's ---
+---
+and here's ***
+***
+and here's ===
+===
+[link to the onion](https://theonion.com "time for some news")  
+time for some news. End the previous line with 2 spaces to keep the next line from being appended to 
+
+bullet lists:
+* no spaces
+ - one space
+ + one space
+ * hahaha
+ 
+
+end of list. 
+ 
+
+
+
+
