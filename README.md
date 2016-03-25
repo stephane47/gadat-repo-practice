@@ -9,3 +9,13 @@ one | two
 
 how do you end a table?
 
+* bullet list
+  * indent
+  * *italics*
+  * **bold**
+
+no more list. just two sentences.
+same paragraph. oh, it merges them on the same line.
+
+new paragraph.
+
