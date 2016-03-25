@@ -36,6 +36,7 @@ bullet lists:
  
 
 end of list. 
+adding a line locally; from vi.
  
 
 
