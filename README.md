@@ -4,6 +4,7 @@
 `add a readme.md`
 
 i like | tables!
+---|---
 one | two
 
 how do you end a table?
